@@ -163,7 +163,7 @@ music-app/
 ## 1️⃣ Clonar el repositorio
 
 ```bash
-git clone https://github.com/microeinhundert/music-app.git
+git clone https://github.com/isairey/StreamingMusicaApp.git
 ```
 
 ---
@@ -171,7 +171,7 @@ git clone https://github.com/microeinhundert/music-app.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd music-app
+cd StreamingMusicaApp
 ```
 
 ---
